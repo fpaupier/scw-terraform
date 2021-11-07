@@ -1,1 +1,3 @@
 scw/.env
+*.terraform
+*terraform.tfstate*
